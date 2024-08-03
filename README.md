@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Idan</h1>
-<h3 align="center">A passionate developer from who loves to build things!</h3>
+<h3 align="center">A passionate developer who loves to build things!</h3>
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2YweTB5bThlczNtMWZnZHNwNW56OGE3cjZodWtpMnUyOWo0N20xMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif">
